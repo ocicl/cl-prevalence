@@ -4,6 +4,6 @@ In memory database system for Common Lisp
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/40ants/cl-prevalence.git |
-| commit  | e6b2764                                         |
+| commit  | 66da009                                         |
 | systems | cl-prevalence                                   |
 |---------+-------------------------------------------------|
